@@ -1,0 +1,7 @@
+D:\C#\ForLoopss\ForLoopss\bin\Debug\ForLoopss.exe.config
+D:\C#\ForLoopss\ForLoopss\bin\Debug\ForLoopss.exe
+D:\C#\ForLoopss\ForLoopss\bin\Debug\ForLoopss.pdb
+D:\C#\ForLoopss\ForLoopss\obj\Debug\ForLoopss.csproj.AssemblyReference.cache
+D:\C#\ForLoopss\ForLoopss\obj\Debug\ForLoopss.csproj.CoreCompileInputs.cache
+D:\C#\ForLoopss\ForLoopss\obj\Debug\ForLoopss.exe
+D:\C#\ForLoopss\ForLoopss\obj\Debug\ForLoopss.pdb
