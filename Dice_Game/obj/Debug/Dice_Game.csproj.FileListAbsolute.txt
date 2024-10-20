@@ -1,0 +1,7 @@
+D:\C#\Dice_Game\bin\Debug\Dice_Game.exe.config
+D:\C#\Dice_Game\bin\Debug\Dice_Game.exe
+D:\C#\Dice_Game\bin\Debug\Dice_Game.pdb
+D:\C#\Dice_Game\obj\Debug\Dice_Game.csproj.AssemblyReference.cache
+D:\C#\Dice_Game\obj\Debug\Dice_Game.csproj.CoreCompileInputs.cache
+D:\C#\Dice_Game\obj\Debug\Dice_Game.exe
+D:\C#\Dice_Game\obj\Debug\Dice_Game.pdb
