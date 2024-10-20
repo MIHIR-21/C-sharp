@@ -1,0 +1,7 @@
+D:\C#\NumberGuessGame\bin\Debug\NumberGuessGame.exe.config
+D:\C#\NumberGuessGame\bin\Debug\NumberGuessGame.exe
+D:\C#\NumberGuessGame\bin\Debug\NumberGuessGame.pdb
+D:\C#\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.AssemblyReference.cache
+D:\C#\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.CoreCompileInputs.cache
+D:\C#\NumberGuessGame\obj\Debug\NumberGuessGame.exe
+D:\C#\NumberGuessGame\obj\Debug\NumberGuessGame.pdb
